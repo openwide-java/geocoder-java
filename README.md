@@ -1,4 +1,8 @@
 # Java API for Google geocoder v3
+### Fork goals
+
+Project forked due to the lack of release after 0.16
+
 ### Maven
 #### Repository
 
