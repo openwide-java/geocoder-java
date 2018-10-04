@@ -1,3 +1,8 @@
+Discontinued
+============
+This repository is no longer actively maintained. Please take a look at the [original repo](https://github.com/panchmp/geocoder-java).
+
+
 # Java API for Google geocoder v3
 ### Fork goals
 
